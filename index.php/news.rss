@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>http://dhtheme.com/organicfood2/index.php/news</link>
+		<lastBuildDate>Wed, 17 Jul 2019 11:52:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://dhtheme.com/organicfood2/index.php/news?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>hpnotiq@abv.bg (Organic Food 2)</managingEditor>
+		<item>
+			<title>Conventional vs. organic farming</title>
+			<link>http://dhtheme.com/organicfood2/index.php/news/8-conventional-vs-organic</link>
+			<guid isPermaLink="true">http://dhtheme.com/organicfood2/index.php/news/8-conventional-vs-organic</guid>
+			<description><![CDATA[<p><img src="http://dhtheme.com/organicfood2/images/Demo/blog/news5.jpg" alt="Conventional vs. organic farming"></p>
+<p>Organic farming practices are designed to encourage soil and water conservation and reduce pollution. Farmers who grow organic produce and meat don't use conventional methods to fertilize, control weeds or prevent livestock disease. For example, rather than using chemical weedkillers, organic farmers may conduct more sophisticated crop rotations and spread mulch or manure to keep weeds at bay.</p>
+]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Thu, 03 Dec 2015 15:12:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Organic or not? Check the label</title>
+			<link>http://dhtheme.com/organicfood2/index.php/news/7-organic-or-not</link>
+			<guid isPermaLink="true">http://dhtheme.com/organicfood2/index.php/news/7-organic-or-not</guid>
+			<description><![CDATA[<p><img src="http://dhtheme.com/organicfood2/images/Demo/blog/news4.jpg" alt="Organic or not? Check the label"></p>
+<p>Statistics show that many consumers are looking for products bearing these organic logos and labels when shopping for groceries or buying a meal in a restaurant or canteen. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Thu, 03 Dec 2015 15:12:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Interesting Facts About Imported Food</title>
+			<link>http://dhtheme.com/organicfood2/index.php/news/6-imported-food</link>
+			<guid isPermaLink="true">http://dhtheme.com/organicfood2/index.php/news/6-imported-food</guid>
+			<description><![CDATA[<p><img src="http://dhtheme.com/organicfood2/images/Demo/blog/news3.jpg" alt="Interesting Facts About Imported Food"></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Thu, 03 Dec 2015 15:11:09 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

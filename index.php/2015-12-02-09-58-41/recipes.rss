@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Recipes</title>
+		<description><![CDATA[]]></description>
+		<link>http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes</link>
+		<lastBuildDate>Wed, 17 Jul 2019 11:51:38 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>hpnotiq@abv.bg (Organic Food 2)</managingEditor>
+		<item>
+			<title>Rutabanga Soup</title>
+			<link>http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes/26-recipes4</link>
+			<guid isPermaLink="true">http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes/26-recipes4</guid>
+			<description><![CDATA[<p><img width="900" height="500" alt="Indian Style Butternut Squash" src="http://dhtheme.com/organicfood2/images/Demo/elements/recipes4.jpg" title="Butternut Squash Lasagna"></p>
+
+<div class="recipe">
+<div class="uk-grid uk-grid-divider">
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-clock-o uk-icon-small"></i>&nbsp;&nbsp;&nbsp;30 mins to 1 hour</p>
+</div>
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-fire uk-icon-small"></i>&nbsp;&nbsp;&nbsp;Less than 10 mins</p>
+</div>
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-cutlery uk-icon-small"></i>&nbsp;&nbsp;&nbsp;Serves 4</p>
+</div>
+
+</div>
+</div>
+
+<br>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Recipes</category>
+			<pubDate>Tue, 08 Dec 2015 16:17:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cucumber Smoothie</title>
+			<link>http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes/25-recipes3</link>
+			<guid isPermaLink="true">http://dhtheme.com/organicfood2/index.php/2015-12-02-09-58-41/recipes/25-recipes3</guid>
+			<description><![CDATA[<p><img width="900" height="500" alt="Indian Style Butternut Squash" src="http://dhtheme.com/organicfood2/images/Demo/elements/recipes3.jpg" title="Butternut Squash Lasagna"></p>
+
+<div class="recipe">
+<div class="uk-grid uk-grid-divider">
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-clock-o uk-icon-small"></i>&nbsp;&nbsp;&nbsp;10 mins to 15mins</p>
+</div>
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-fire uk-icon-small"></i>&nbsp;&nbsp;&nbsp;Less than 5 mins</p>
+</div>
+
+<div class="uk-width-medium-1-3">
+<p><i class="uk-icon-cutlery uk-icon-small"></i>&nbsp;&nbsp;&nbsp;Serves 4</p>
+</div>
+
+</div>
+</div>
+
+<br>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Recipes</category>
+			<pubDate>Tue, 08 Dec 2015 16:16:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

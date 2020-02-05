@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">News</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://dhtheme.com"/>
+	<id>http://dhtheme.com/organicfood2/index.php/news</id>
+	<updated>2019-07-17T11:52:04+00:00</updated>
+	<author>
+		<name>Organic Food 2</name>
+		<email>hpnotiq@abv.bg</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://dhtheme.com/organicfood2/index.php/news?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Conventional vs. organic farming</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/organicfood2/index.php/news/8-conventional-vs-organic"/>
+		<published>2015-12-03T15:12:51+00:00</published>
+		<updated>2015-12-03T15:12:51+00:00</updated>
+		<id>http://dhtheme.com/organicfood2/index.php/news/8-conventional-vs-organic</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/organicfood2/images/Demo/blog/news5.jpg&quot; alt=&quot;Conventional vs. organic farming&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Organic farming practices are designed to encourage soil and water conservation and reduce pollution. Farmers who grow organic produce and meat don't use conventional methods to fertilize, control weeds or prevent livestock disease. For example, rather than using chemical weedkillers, organic farmers may conduct more sophisticated crop rotations and spread mulch or manure to keep weeds at bay.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/Demo/blog/news5.jpg&quot; alt=&quot;Conventional vs. organic farming&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Organic farming practices are designed to encourage soil and water conservation and reduce pollution. Farmers who grow organic produce and meat don't use conventional methods to fertilize, control weeds or prevent livestock disease. For example, rather than using chemical weedkillers, organic farmers may conduct more sophisticated crop rotations and spread mulch or manure to keep weeds at bay.&lt;/p&gt;
+</content>
+		<category term="News" />
+	</entry>
+	<entry>
+		<title>Organic or not? Check the label</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/organicfood2/index.php/news/7-organic-or-not"/>
+		<published>2015-12-03T15:12:05+00:00</published>
+		<updated>2015-12-03T15:12:05+00:00</updated>
+		<id>http://dhtheme.com/organicfood2/index.php/news/7-organic-or-not</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/organicfood2/images/Demo/blog/news4.jpg&quot; alt=&quot;Organic or not? Check the label&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Statistics show that many consumers are looking for products bearing these organic logos and labels when shopping for groceries or buying a meal in a restaurant or canteen. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/Demo/blog/news4.jpg&quot; alt=&quot;Organic or not? Check the label&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Statistics show that many consumers are looking for products bearing these organic logos and labels when shopping for groceries or buying a meal in a restaurant or canteen. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+		<category term="News" />
+	</entry>
+	<entry>
+		<title>Interesting Facts About Imported Food</title>
+		<link rel="alternate" type="text/html" href="http://dhtheme.com/organicfood2/index.php/news/6-imported-food"/>
+		<published>2015-12-03T15:11:09+00:00</published>
+		<updated>2015-12-03T15:11:09+00:00</updated>
+		<id>http://dhtheme.com/organicfood2/index.php/news/6-imported-food</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://dhtheme.com/organicfood2/images/Demo/blog/news3.jpg&quot; alt=&quot;Interesting Facts About Imported Food&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;images/Demo/blog/news3.jpg&quot; alt=&quot;Interesting Facts About Imported Food&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+		<category term="News" />
+	</entry>
+</feed>
