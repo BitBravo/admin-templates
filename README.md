@@ -1,1 +1,1 @@
-# admin-templates
+# fuse-theme
