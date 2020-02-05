@@ -1,0 +1,50 @@
+Version 1.2.2
+   Fixed:
+    - Compatibility with PHP7.3
+    - Compatibility with WP 5.2.2
+    - Compatibility with Slider Revolution 6+
+    - Update plugins to their latest versions
+    - Blogger shortcode
+    - Update TRX Utils plugin
+
+    Changed:
+    - All shortcodes moved to ThemeREX Utilities plugin
+
+Version 1.2.1
+    Added:
+        Service Plus page
+
+    Fixed:
+		- Cars group icon
+		- Child-theme functionality
+		- Theme plugins are updated to the latest versions
+		- Scripts libraries are updated
+
+    Removed:
+        - Support page, Video Tutorials page
+
+Version 1.2
+    Added:
+        - Compatibility with Gutenberg and other PageBuilders
+        - WP GDPR Compliance plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with WP 4.9.8
+        - Compatibility with PHP7
+        - Update plugins to their latest versions
+        - Improve theme styles
+        - Update documentation
+        - Mobile menu
+
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Move Importer to ThemeREX Utilities plugin
+        - Update demo data
+
+Version 1.1
+        - All plugins updated
+        - Documentation updated
+
+Version 1.0
